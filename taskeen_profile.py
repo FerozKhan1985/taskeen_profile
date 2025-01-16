@@ -15,17 +15,8 @@ image = Image.open('tk.png')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
-st.info('''**Research Assistant**    
-        Government Paramedical Institute of Medical Technologies.
-- Focus areas: Biochemistry, Molecular Medicine, Pathology and Microbiology Lab Work.
-- Contributing to the development of future healthcare professionals.
-- Bridging the gap between fundamental science and practical applications in medicine.
-- Plays a vital role in understanding human health and disease.
-- Develop new drugs, diagnostics, and treatments for a variety of medical conditions.
-- Uses techniques from molecular biology, genetics, microbiology and biochemistry to understand the genetic
-and molecular basis of disease.
-- Aims to develop new therapies that target the underlying causes of disease, rather than just the symptoms.
-- Conducted hands-on lab activities, guiding students through experiments and analysis.
+st.info('''
+I have an M.Phil. in Medical Microbiology from Quaid-i-Azam University and a B.Sc. in Microbiology from Shaheed Benazir Bhutto Women's University. My work focuses on biochemistry, biomedicine, and molecular biology, exploring areas like the human genome, molecular medicine, and pathology. I aim to develop therapies that address the root causes of diseases. I've taught Microbiology and Medical Instrumentation at Riphah International University (Swat campus) and currently work as a Research Assistant at the Government Paramedical Institute for Medical Health Technologies, Saidu Sharif Swat.
 ''')
 
 #####################
@@ -145,11 +136,51 @@ st.markdown('''
 - Development of new therapies, such as targeted therapy and immunotherapy
 ''')
 
-txt('**Publications**, antimicrobial and wound healing agent',
+st.markdown('''
+## Publications
+''')
+
+txt('**Biosynthesis of silver nanoparticles from novel Bischofia javanica plant loaded chitosan hydrogel:**, antimicrobial and wound healing agent',
 '2022')
 st.markdown('''
 **Biosynthesis of silver nanoparticles from novel Bischofia javanica plant loaded chitosan hydrogel:** as antimicrobial and wound healing agent **Khan, T.A.** et al. Biosynthesis of silver nanoparticles from novel Bischof ia javanica plant loaded chitosan hydrogel: as antimicrobial and wound healing agent. Biomass Conv. Bioref. **13**, 15531–15541 (2022).      
-https://doi.org/10.1007/s13399-022-02960-w
+https://doi.org/10.1007/s13399-022-02960-w **(WOS IF= 3.5)**
+''')
+
+txt('**Multi-Source Cyber Intrusion Detection**, using Ensemble Machine Learning',
+'2024')
+st.markdown('''
+Khan, T. A., Abbas, S., Senapati, B., Anand, M. R., Ghafoor, M. I., Pradhan, S. & Almeida, F. (2025). Multi-Source Cyber
+Intrusion Detection Using Ensemble Machine Learning. Journal of Computer Science, 21(1), 111-123. https://doi.org/10.3844/jcssp.2025.111.123      
+
+Khan, T. A., Abbas, S., Senapati, B., Anand, M. R., Ghafoor, M. I., Pradhan, S. & Almeida, F. (2025) 
+''')
+
+txt('**A Study on Web User’s Attitude and Knowledge**, towards Data Security and Privacy Issues of Web Browser Extensions',
+'2024')
+st.markdown('''
+B. Senapati et al., "A Study on Web User's Attitude and Knowledge Towards Data Security and Privacy Issues of Web 
+Browser Extensions," 2024 4th International Conference on Electrical, Computer, Communications and Mechatronics
+Engineering (ICECCME), Male, Maldives, 2024, pp. 1-8, doi: 10.1109/ICECCME62383.2024.10796625.        
+
+Biswaranjan Senapati, Awad Bin Naeem, Taskeen Ali Khan 
+''')
+
+txt('**A Sensor-Based Technique for the Identification of Cardiac Disorders**, Utilizing Feature Extraction a Artificial Neural Networks',
+'2025')
+st.markdown('''
+This study suggests a novel approach to person identification by combining signal processing and feature extraction techniques. It uses an artificial neural network (ANN) and 10 metal oxide semiconductor sensors to identify each person's distinct scent patterns. The first step in using ANN patterns is to scan and acquire sensor data. You must first scan and collect sensory information from the sensor data before using ANN patterns to create patterns from it. Each participant in the several studies—which cover a range of periods and include 5, 10, 15, and 20 people—is identified and scanned for more than a thousand unique traits. Arduino receives analogue sensor inputs and uses changing periods to convert them to digital form. 
+The architecture has to be trained using the recently generated data set. Metrics like sensitivity, f-measures, specificity, and accuracy are used to evaluate the proposed model for human odour identification. Research uses the assessment metrics, and the results show that this model is generally accurate to within 15% of the true value. The findings point to potential applications of feature extraction techniques to improve overall person identification and human odour detection.       
+
+Biswaranjan Senapati* , Awad Bin Naeem , Taskeen Ali Khan 
+''')
+
+
+txt('**Classification of Hybrid MRI images for Brain Tumor Detection**, using Deep Learning',
+'2025')
+st.markdown('''
+Journal of Computer Science, Science publication      
+Under Review (Impact Factor=1.12) 
 ''')
 
 txt('**Projects**, Biosynthesis of silver nanoparticles from novel Bischofia Javanica plant loaded chitosan hydrogel: antimicrobial and wound healing agent, Pakistan',
@@ -168,7 +199,9 @@ st.markdown('''
 - This molecular study was carried out on active Hepatitis C Virus infection in Peshawar region between AprilDecember 2017.
 - The present study was conducted at GENE Tech Diagnostic and Research Laboratory Peshawar, Pakistan.          
 **Project on HCV** in the lab of Peshawar Medical Collage ( Oct-December 2017).           
-**Internship as microbiologist** in Khyber Teaching Hospital ( December 2017-Feb 2018).
+**Internship as microbiologist** in Khyber Teaching Hospital ( December 2017-Feb 2018).        
+**Link:**  
+https://uqz.zoom.us/rec/play/TUFSr5XbbRg-N_UPBUK7qw7Bp6BnAk7OIh_uA77I_2feOBnBAlZ0NOcPBveOILYDucMuql8qPlP8N2K9.4tzcu7_mZwOAjPaw?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%253A%252F%252Fuqz.zoom.us%252Frec%252Fshare%252F0uUEQ_zdkiW1m5JDu4oMjQuJwLNCI5pvbTWp7AVU7Z57rXrYrr9gMOeCarSqnxZW.IFkScUtKwgdk7T5H        
 ''')
 
 txt('**HONOURS AND AWARDS**, Honours and Awards',
