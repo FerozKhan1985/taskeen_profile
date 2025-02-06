@@ -16,7 +16,7 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-I have an M.Phil. in Medical Microbiology from Quaid-i-Azam University and a B.Sc. in Microbiology from Shaheed Benazir Bhutto Women's University. My work focuses on biochemistry, biomedicine, and molecular biology, exploring areas like the human genome, molecular medicine, and pathology. I aim to develop therapies that address the root causes of diseases. I've taught Microbiology and Medical Instrumentation at Riphah International University (Swat campus) and currently work as a Research Assistant at the Government Paramedical Institute for Medical Health Technologies, Saidu Sharif Swat.
+I have an M.Phil. in Medical Microbiology from Quaid-i-Azam University and a BS (4 years) in Microbiology from Shaheed Benazir Bhutto Women's University. My work focuses on biochemistry, biomedicine, and molecular biology, exploring areas like the human genome, molecular medicine, and pathology. I aim to develop therapies that address the root causes of diseases. I've taught Microbiology and Medical Instrumentation at Riphah International University (Swat campus) and currently work as a Research Assistant at the Government Paramedical Institute for Medical Health Technologies, Saidu Sharif Swat.
 ''')
 
 #####################
